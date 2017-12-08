@@ -1,0 +1,62 @@
+body {
+  padding-top: 55px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 55px;
+  }
+}
+
+.card {
+  height: 100%;
+}
+
+.bg-dark {
+  background-color: #FFB6C1 !important;
+}
+
+.btn-ifc {
+  color: #fff;
+  background-color: #FFB6C1;
+  border-color: transparent;
+  border: transparent 0px;
+}
+.btn-ifc:hover {
+  color: #fff;
+  background-color: #FFB6C1;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.admin-menu {
+  background: #333;
+}
+
+.bla {
+  margin: 0;
+  padding: 0;
+}
+.blas {
+  padding: 0 ;
+  list-style: none;
+
+}
+
+.blar {
+  display: block;
+  padding: 10px 10px;
+
+  color: #b8c7ce;
+  font-size: 12px;
+}
+.blat:hover {
+  text-decoration: none;
+  background: #1d1c1c;
+  color: #b8c7ce;
+}
+
